@@ -556,3 +556,7 @@ div.olMap div.gx-overlay-playback {
 .x-btn .gxp-icon-buildchart, .x-tree-node .gxp-icon-buildchart, .gxp-icon-buildchart {
     background-image: url(img/silk/chart_bar.png) !important;
 }
+
+.x-btn .gxp-icon-pngexport, .x-menu-item .gxp-icon-pngexport {
+    background-image: url(img/silk/picture_save.png) !important;
+}
